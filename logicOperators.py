@@ -60,3 +60,42 @@
 #     print ('sim solomon kadabra')
 # else:
 #     print ('совпадений не найдено!')
+
+# email = input('eneter email: ')
+# password1 = input('enter the password: ')
+
+# if len (Password) <8:
+#     raise ValueError('Password too short')
+
+# password2 = input('enter the password confirmation: ')
+
+# if Password2 != Password:
+#     raise ValueError('Password didn\;t match')
+# else:
+#     print ('succesfully signed up!')
+
+
+# age = input('enter your age: ')
+# if age.isdigit():
+#     age = int(age)
+# else:   
+#     raise Exception('Invalid values!')
+
+
+
+
+
+# логические операторы end -> логическое и
+# or-> лог или 
+# not -> лог отрицание
+
+# my_age = 20
+# your_age =18
+# result = my_age == 20 and your_age ==18
+# print (result)
+
+# result - my_age ==21 or your_age ==19
+# print (result)
+
+# result= not my_age ==20
+# print (result)
